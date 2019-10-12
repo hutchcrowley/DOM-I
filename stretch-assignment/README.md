@@ -3,8 +3,8 @@
 Topics:
  * Interacting with the DOM
  * Selectors
-  * selectElementsByClassname
-  * selectElementbyId
+  * getElementsByClassName
+  * getElementbyId
   * querySelector
   * querySelectorAll
  * NodeList
